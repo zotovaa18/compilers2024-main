@@ -1,0 +1,7 @@
+BEGIN
+        i := 3;
+        j := 2;
+        
+        max := (i > j) ? i : j;
+        WRITE(max)
+END
